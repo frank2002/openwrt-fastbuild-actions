@@ -6261,7 +6261,7 @@ CONFIG_PACKAGE_smartmontools=y
 # CONFIG_PACKAGE_sockread is not set
 # CONFIG_PACKAGE_spi-tools is not set
 # CONFIG_PACKAGE_spidev-test is not set
-# CONFIG_PACKAGE_strace is not set
+# CONFIG_PACKAGE_strace is not set 
 CONFIG_STRACE_NONE=y
 # CONFIG_STRACE_LIBDW is not set
 # CONFIG_STRACE_LIBUNWIND is not set
