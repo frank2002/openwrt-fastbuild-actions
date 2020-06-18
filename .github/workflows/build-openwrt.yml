@@ -27,7 +27,7 @@ on:
   # # For 'schedule', see examples in: https://crontab.guru/examples.html
   # #     e.g. every sunday midnight: '0 0 * * 0' every midnight: '0 0 * * *'
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: '0 0 */5 * *'
   watch:
     types: [started]
 
